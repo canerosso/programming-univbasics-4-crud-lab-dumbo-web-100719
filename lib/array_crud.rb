@@ -1,9 +1,10 @@
 def create_an_empty_array
-  array1 = [];
+ [];
+  #array1 = [];#this works too.
 end
 
 def create_an_array
-  
+  [];
 end
 
 def add_element_to_end_of_array(array, element)
