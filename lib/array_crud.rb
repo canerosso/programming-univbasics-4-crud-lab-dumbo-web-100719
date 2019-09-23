@@ -31,8 +31,8 @@ def retrieve_first_element_from_array(array)
   array[0]
 end
 
-def retrieve_last_element_from_array(array)#
-  
+def retrieve_last_element_from_array(array)
+  array[-1];#The last element of an array is considered to be stored at an index of -1.
 end
 
 def update_element_from_index(array, index_number, element)
