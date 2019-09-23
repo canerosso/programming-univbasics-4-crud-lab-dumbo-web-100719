@@ -1,6 +1,5 @@
 def create_an_empty_array
- [];
-  #array1 = [];#this works too.
+  array1 = [];
 end
 
 def create_an_array
