@@ -9,6 +9,7 @@ end
 
 def add_element_to_end_of_array(array, element)
  array.push(element);
+ #array << element; #<< is the shovel method. works only with one argument to push;
 end
 
 def add_element_to_start_of_array(array, element)
